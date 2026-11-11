@@ -6,7 +6,10 @@ A desktop password manager with a graphical interface, written in Python with Tk
 
 <!-- Drag and drop 
 
-https://github.com/user-attachments/assets/f9efc7ac-8766-4291-b866-f14028a29588
+https://github.com/user-attachments/assets/bcc1ae5c-4146-49fe-8ff1-d8af9bc8e7fb
+
+
+
 
 your demo.mp4 here while editing this file on github.com -->
 
