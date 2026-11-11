@@ -4,7 +4,7 @@ A desktop password manager with a graphical interface, written in Python with Tk
 
 ## Demo
 
-<img width="640" height="484" alt="Password Manager GUI 2026-11-11 19-31-02" src="https://github.com/user-attachments/assets/5d5db5c9-d919-4553-843e-61beb9ae28ac" />
+<img width="640" height="484" alt="Password Manager GUI 2026-11-11 19-31-02" src="https://github.com/user-attachments/assets/474fbe40-aa64-4aaf-94a8-0e2c329f126e" />
 
 
 
